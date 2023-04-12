@@ -1,0 +1,1 @@
+# Shopify starter theme
